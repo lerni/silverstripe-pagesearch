@@ -3,7 +3,7 @@
 /**
  * A simple class for running a search from url get vars
  */
-class PageSearch extends Object
+class PageSearch extends SS_Object
 {
 
     protected $fields;
